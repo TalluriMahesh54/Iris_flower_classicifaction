@@ -1,8 +1,3 @@
-Perfect ✅ A professional `README.md` will make your GitHub repo stand out. Here’s a **detailed, well-structured README** for your **Iris Flower Classification Project**:
-
----
-
-````markdown
 # 🌸 Iris Flower Classification
 
 A machine learning project that classifies iris flowers into three species — **Setosa**, **Versicolor**, and **Virginica** — using their sepal and petal dimensions. This project demonstrates a complete ML pipeline from data exploration to model evaluation, making it an excellent introduction to supervised learning.
@@ -57,7 +52,7 @@ The dataset is balanced, with 50 samples per class.
 
 ## 🎯 Results
 
-- **Best Models:** Random Forest & SVM  
+- **Best Models:** Random Forest  
 - **Accuracy:** ~97–100% on test data  
 - **Insights:**  
   - Petal length and petal width are the most influential features  
@@ -94,24 +89,6 @@ Run the notebook:
 ```bash
 jupyter notebook iris_classification.ipynb
 ```
-
-Or open directly in Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/iris-classification/blob/main/iris_classification.ipynb)
-
----
-
-## 📷 Visualizations
-
-Pairplot of features colored by species:
-![Pairplot Example](images/pairplot.png)
-
-Correlation heatmap:
-![Heatmap Example](images/heatmap.png)
-
-*(Optional: Add your own plots/screenshots to `/images/` and link here.)*
-
----
-
 ## 📂 Repository Structure
 
 ```
@@ -119,8 +96,6 @@ iris-classification/
 │── iris_classification.ipynb   # Main notebook
 │── requirements.txt            # Project dependencies
 │── README.md                   # Project documentation
-└── images/                     # Visualizations (optional)
-```
 
 ---
 
