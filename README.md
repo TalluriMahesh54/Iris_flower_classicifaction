@@ -78,12 +78,6 @@ git clone https://github.com/TalluriMahesh54/Iris_flower_classicifaction.git
 cd Iris_flower_classicifaction
 ````
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 Run the notebook:
 
 ```bash
@@ -94,7 +88,6 @@ jupyter notebook iris_classification.ipynb
 ```
 iris-classification/
 │── iris_classification.ipynb   # Main notebook
-│── requirements.txt            # Project dependencies
 │── README.md                   # Project documentation
 
 ---
