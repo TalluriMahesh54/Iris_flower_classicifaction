@@ -75,7 +75,7 @@ The dataset is balanced, with 50 samples per class.
 Clone the repository:
 ```bash
 git clone https://github.com/TalluriMahesh54/Iris_flower_classicifaction.git
-cd iris-classification
+cd Iris_flower_classicifaction
 ````
 
 Install dependencies:
